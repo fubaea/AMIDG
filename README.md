@@ -2,6 +2,7 @@
 __*Accessible Mobile Interface Development Guidelines*__
 
 
+
 Nossa proposta é criar um Guideline para desenvolvimento de interfaces para aplicativos móveis.
 
 O desenvolvimento de interfaces de sistemas, programas e aplicativos (web ou mobile) ainda é muito precário em termos de aceitação de público considerado não convencional, como portadores de deficiências e necessidades especiais.
