@@ -1,5 +1,5 @@
 ## Fubá - AMIDG
-*Accessible Mobile Interface Development Guidelines*
+__*Accessible Mobile Interface Development Guidelines*__
 
 
 Nossa proposta é criar um Guideline para desenvolvimento de interfaces para aplicativos móveis.
