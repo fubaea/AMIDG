@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Fubá - AMIDG
 
-You can use the [editor on GitHub](https://github.com/fubaea/AMIDG/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nossa proposta é criar um Guideline para desenvolvimento de interfaces para aplicativos móveis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O desenvolvimento de interfaces de sistemas, programas e aplicativos (web ou mobile) ainda é muito precário em termos de aceitação de público considerado não convencional, como portadores de deficiências e necessidades especiais.
 
-### Markdown
+Quando encontramos aplicações no mercado atual (2018) podemos notar que poucas soluções são totalmente inclusivas, geralmente possuiem um foco maior em um dos grupos apenas, implementando muito bem conceitos de usabilidade para o público geral e provendo alguns recursos para o público especial.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fubaea/AMIDG/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dessa maneira decidimos na Fubá Educação Ambiental e Criatividade criar a primeira versão (1.0) de um guia ou documento contendo de diretrizes para a criação de interfaces de software totalmente acessível.
