@@ -7,7 +7,7 @@ O desenvolvimento de interfaces de sistemas, programas e aplicativos (web ou mob
 
 Quando encontramos aplicações no mercado atual (2018) podemos notar que poucas soluções são totalmente inclusivas, geralmente possuiem um foco maior em um dos grupos apenas, implementando muito bem conceitos de usabilidade para o público geral e provendo alguns recursos para o público especial.
 
-Dessa maneira decidimos na Fubá Educação Ambiental e Criatividade criar a primeira versão (1.0) de um guia ou documento contendo de diretrizes para a criação de interfaces de software totalmente acessível, que inclui múltiplas deficiências físicas ou intelectuais. 
+Dessa maneira decidimos na Fubá Educação Ambiental e Criatividade criar a primeira versão (1.0) de um guia ou documento contendo de diretrizes para a criação de interfaces de software totalmente acessível, incluindo suporte a usuários portadores de  múltiplas deficiências físicas ou intelectuais. 
 
 #### Conheça um pouco do trabalho da Fubá Educação Ambiental e Criatividade
 
