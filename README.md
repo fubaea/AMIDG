@@ -32,3 +32,24 @@ E porque não utilizar tudo isso para possibilitar a inclusão de portadores de 
 No desenvolvimento de aplicações de sistemas computacionais são utilizadas uma ou mais interfaces, muitas vezes temos dispositivos que incorporam mais de uma e outras apenas dando ao próprio dispositivo o propósito de interface.
 
 Os dispositivos móveis como smartphones, wearables, notebooks utilizam-se de inúmeras interfaces, tanto para comunicação humano-máquina, como máquina-máquina.
+
+### LINKS e Referências
+
+WCAG 2.0
+https://www.w3.org/Translations/WCAG20-pt-PT/
+
+
+Android Guidelines Interface
+https://developer.android.com/guide/practices/ui_guidelines/index.html
+
+
+IOS Guidelines Interface
+https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
+
+
+Acessibilidade Apple
+https://www.apple.com/br/accessibility/
+
+
+Samsung Guia de Acessibilidade
+http://www.sidi.org.br/guiadeacessibilidade/#sobre
