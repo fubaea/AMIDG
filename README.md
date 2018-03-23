@@ -53,3 +53,12 @@ https://www.apple.com/br/accessibility/
 
 Samsung Guia de Acessibilidade
 http://www.sidi.org.br/guiadeacessibilidade/#sobre
+
+
+## LICENÇA
+
+Este trabalho está licenciado em 
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)
+
+![Creative Commons Attribution by 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
