@@ -16,3 +16,17 @@ Dessa maneira decidimos na Fubá Educação Ambiental e Criatividade criar a pri
 ### Nosso guia na WIKI 
 
 [AMIDG](https://github.com/fubaea/AMIDG/wiki)
+
+### Sobre Interfaces
+
+Consideramos interface qualquer meio físico ou virtual que possibilite a conexão e comunicação entre dois sistemas. Nosso objeto de estudo envolve o sistema computacional e humano e sua interação.Para que isso ocorra de forma eficaz é necessário estabelecer os meios ou ações para a troca de mensagens e obtenção dos resultados desejados.
+
+Quando se trata de interface entre humano-máquina temos uma enorme gama de equipamentos tecnológicos que foram criados para possibilitar o controle total ou parcial de um sistema computacional. Geralmente criamos equipamentos e sistemas para automatizar e executar tarefas específicas, com o advento de redes neurais e inteligência artificial essas tarefas se estendem além das inicialmente previstas.
+
+As interfaces (ou hardware) mais comuns para tal interação são: displays, teclados, mouses, acionadores, sensores (pressão, temperatura, baromètricos, de localização, proximidade, etc), câmeras, microfones e alto-falantes. Com o avanço tecnológico no aprendizado de máquina é possível elevar essa interação atual a ponto de interpretar comandos de voz por meio de sons,comandos visuais por meio de gestos e identificação de objetos, programar o comportamento de dispositivos de acordo com medidas fornecidas por esses sensores elevando esse grau de interação. 
+
+E porque não utilizar tudo isso para possibilitar a inclusão de portadores de necessidades especiais?
+
+No desenvolvimento de aplicações de sistemas computacionais são utilizadas uma ou mais interfaces, muitas vezes temos dispositivos que incorporam mais de uma e outras apenas dando ao próprio dispositivo o propósito de interface.
+
+Os dispositivos móveis como smartphones, wearables, notebooks utilizam-se de inúmeras interfaces, tanto para comunicação humano-máquina, como máquina-máquina.
