@@ -16,7 +16,7 @@ Dessa maneira decidimos na Fubá Educação Ambiental e Criatividade criar a pri
 
 ### Nosso guia na WIKI 
 
-[AMIDG](https://github.com/fubaea/AMIDG/wiki)
+[AMIDG1.0](https://github.com/fubaea/AMIDG/wiki)
 
 
 ### Sobre Interfaces
